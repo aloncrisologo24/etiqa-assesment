@@ -41,9 +41,14 @@ DB scripts are under `backend/EtiqaAssessment/DB/`:
   Note: EmployeeNumber is auto-generated in the `InsertNewEmployee.sql` stored procedure.
 ---
 
-## Additional Info
+## Additional Info & Previews
 
 - The frontend is a separate Angular app under `frontend/etiqa-frontend` and talks to the `api/employees` endpoints.
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/25c3bb6f-3d32-4169-8089-21e08de5441d" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/9d0ac61f-0346-4d81-847c-019d19f0146b" />
+
+<img width="838" height="64" alt="image" src="https://github.com/user-attachments/assets/9274a6cd-72fd-4a9b-a28c-347e10487663" />
+
 
 ---
 
