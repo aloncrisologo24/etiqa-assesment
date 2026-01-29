@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dan Jii\\Desktop\\Etiqa\\backend\\EtiqaAssessment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4132AAAD-B87D-C480-6817-F2F35069FB83}|EtiqaAssessment.csproj|c:\\users\\dan jii\\desktop\\etiqa\\backend\\etiqaassessment\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4132AAAD-B87D-C480-6817-F2F35069FB83}|EtiqaAssessment.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4132AAAD-B87D-C480-6817-F2F35069FB83}|EtiqaAssessment.csproj|c:\\users\\dan jii\\desktop\\etiqa\\backend\\etiqaassessment\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4132AAAD-B87D-C480-6817-F2F35069FB83}|EtiqaAssessment.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4132AAAD-B87D-C480-6817-F2F35069FB83}|EtiqaAssessment.csproj|c:\\users\\dan jii\\desktop\\etiqa\\backend\\etiqaassessment\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4132AAAD-B87D-C480-6817-F2F35069FB83}|EtiqaAssessment.csproj|solutionrelative:services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4132AAAD-B87D-C480-6817-F2F35069FB83}|EtiqaAssessment.csproj|c:\\users\\dan jii\\desktop\\etiqa\\backend\\etiqaassessment\\db\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4132AAAD-B87D-C480-6817-F2F35069FB83}|EtiqaAssessment.csproj|solutionrelative:db\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4132AAAD-B87D-C480-6817-F2F35069FB83}|EtiqaAssessment.csproj|c:\\users\\dan jii\\desktop\\etiqa\\backend\\etiqaassessment\\db\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4132AAAD-B87D-C480-6817-F2F35069FB83}|EtiqaAssessment.csproj|solutionrelative:db\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4132AAAD-B87D-C480-6817-F2F35069FB83}|EtiqaAssessment.csproj|c:\\users\\dan jii\\desktop\\etiqa\\backend\\etiqaassessment\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4132AAAD-B87D-C480-6817-F2F35069FB83}|EtiqaAssessment.csproj|solutionrelative:repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4132AAAD-B87D-C480-6817-F2F35069FB83}|EtiqaAssessment.csproj|c:\\users\\dan jii\\desktop\\etiqa\\backend\\etiqaassessment\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4132AAAD-B87D-C480-6817-F2F35069FB83}|EtiqaAssessment.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4132AAAD-B87D-C480-6817-F2F35069FB83}|EtiqaAssessment.csproj|c:\\users\\dan jii\\desktop\\etiqa\\backend\\etiqaassessment\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4132AAAD-B87D-C480-6817-F2F35069FB83}|EtiqaAssessment.csproj|solutionrelative:repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4132AAAD-B87D-C480-6817-F2F35069FB83}|EtiqaAssessment.csproj|c:\\users\\dan jii\\desktop\\etiqa\\backend\\etiqaassessment\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4132AAAD-B87D-C480-6817-F2F35069FB83}|EtiqaAssessment.csproj|solutionrelative:services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4132AAAD-B87D-C480-6817-F2F35069FB83}|EtiqaAssessment.csproj|c:\\users\\dan jii\\desktop\\etiqa\\backend\\etiqaassessment\\db\\insertnewemployee.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{4132AAAD-B87D-C480-6817-F2F35069FB83}|EtiqaAssessment.csproj|solutionrelative:db\\insertnewemployee.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4132AAAD-B87D-C480-6817-F2F35069FB83}|EtiqaAssessment.csproj|c:\\users\\dan jii\\desktop\\etiqa\\backend\\etiqaassessment\\appsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{4132AAAD-B87D-C480-6817-F2F35069FB83}|EtiqaAssessment.csproj|solutionrelative:appsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4132AAAD-B87D-C480-6817-F2F35069FB83}|EtiqaAssessment.csproj|c:\\users\\dan jii\\desktop\\etiqa\\backend\\etiqaassessment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4132AAAD-B87D-C480-6817-F2F35069FB83}|EtiqaAssessment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dan Jii\\Desktop\\Etiqa\\backend\\EtiqaAssessment\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Dan Jii\\Desktop\\Etiqa\\backend\\EtiqaAssessment\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T10:44:51.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dan Jii\\Desktop\\Etiqa\\backend\\EtiqaAssessment\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Dan Jii\\Desktop\\Etiqa\\backend\\EtiqaAssessment\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "Repository\\EmployeeRepository.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAApwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T08:25:54.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Dan Jii\\Desktop\\Etiqa\\backend\\EtiqaAssessment\\Services\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Services\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\Dan Jii\\Desktop\\Etiqa\\backend\\EtiqaAssessment\\Services\\IEmployeeService.cs",
+              "RelativeToolTip": "Services\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T08:24:30.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dan Jii\\Desktop\\Etiqa\\backend\\EtiqaAssessment\\Repository\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Dan Jii\\Desktop\\Etiqa\\backend\\EtiqaAssessment\\Repository\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Repository\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T08:25:53.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Dan Jii\\Desktop\\Etiqa\\backend\\EtiqaAssessment\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\Dan Jii\\Desktop\\Etiqa\\backend\\EtiqaAssessment\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T08:24:19.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "C:\\Users\\Dan Jii\\Desktop\\Etiqa\\backend\\EtiqaAssessment\\DB\\Employees.cs",
+              "RelativeDocumentMoniker": "DB\\Employees.cs",
+              "ToolTip": "C:\\Users\\Dan Jii\\Desktop\\Etiqa\\backend\\EtiqaAssessment\\DB\\Employees.cs",
+              "RelativeToolTip": "DB\\Employees.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T10:35:43.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dan Jii\\Desktop\\Etiqa\\backend\\EtiqaAssessment\\DB\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DB\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Dan Jii\\Desktop\\Etiqa\\backend\\EtiqaAssessment\\DB\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DB\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wCIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T10:32:13.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Dan Jii\\Desktop\\Etiqa\\backend\\EtiqaAssessment\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Dan Jii\\Desktop\\Etiqa\\backend\\EtiqaAssessment\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T08:24:08.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Dan Jii\\Desktop\\Etiqa\\backend\\EtiqaAssessment\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Dan Jii\\Desktop\\Etiqa\\backend\\EtiqaAssessment\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T08:34:32.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InsertNewEmployee.sql",
+              "DocumentMoniker": "C:\\Users\\Dan Jii\\Desktop\\Etiqa\\backend\\EtiqaAssessment\\DB\\InsertNewEmployee.sql",
+              "RelativeDocumentMoniker": "DB\\InsertNewEmployee.sql",
+              "ToolTip": "C:\\Users\\Dan Jii\\Desktop\\Etiqa\\backend\\EtiqaAssessment\\DB\\InsertNewEmployee.sql",
+              "RelativeToolTip": "DB\\InsertNewEmployee.sql",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-28T18:42:30.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dan Jii\\Desktop\\Etiqa\\backend\\EtiqaAssessment\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Dan Jii\\Desktop\\Etiqa\\backend\\EtiqaAssessment\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-28T10:33:12.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dan Jii\\Desktop\\Etiqa\\backend\\EtiqaAssessment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Dan Jii\\Desktop\\Etiqa\\backend\\EtiqaAssessment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T08:38:52.389Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
